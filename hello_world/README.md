@@ -8,3 +8,4 @@ Introduction to C: compilation steps, gcc, printing, and Betty style.
 | 1-compiler | Compiles a C file without linking and outputs a .o file |
 | 2-assembler | Generates the assembly code of a C file into a .s file |
 | 3-name | Compiles a C file and creates an executable named cisfun |
+| 4-puts.c |Prints a quote using puts |
