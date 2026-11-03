@@ -10,3 +10,4 @@ Introduction to C: compilation steps, gcc, printing, and Betty style.
 | 3-name | Compiles a C file and creates an executable named cisfun |
 | 4-puts.c |Prints a quote using puts |
 | `5-printf.c` | Prints a sentence using `printf` |
+| `6-size.c` | Prints the size of various types on the computer |
