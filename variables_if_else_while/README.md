@@ -8,3 +8,4 @@
 | `3-print_alphabets.c` | Prints the alphabet in lowercase, then in uppercase |
 | `5-print_numbers.c` | Prints all single digit numbers of base 10 starting from 0 |
 | `6-print_numberz.c` | Prints all single digit numbers using only putchar |
+| `7-print_tebahpla.c` | Prints the lowercase alphabet in reverse |
