@@ -1,1 +1,3 @@
-# holbertonschool-low_level_programming| `4-print_alphabt.c` | Prints the lowercase alphabet except q and e |
+# holbertonschool-low_level_programming
+
+Holberton School low-level programming projects in C.
