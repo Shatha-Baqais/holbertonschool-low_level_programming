@@ -9,3 +9,4 @@ Introduction to C: compilation steps, gcc, printing, and Betty style.
 | 2-assembler | Generates the assembly code of a C file into a .s file |
 | 3-name | Compiles a C file and creates an executable named cisfun |
 | 4-puts.c |Prints a quote using puts |
+| `5-printf.c` | Prints a sentence using `printf` |
