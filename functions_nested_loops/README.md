@@ -15,3 +15,4 @@
 | `10-add.c` | Function that adds two integers and returns the result |
 | `11-print_to_98.c` | Function that prints all integers from n to 98 |
 | `100-times_table.c` | Function that prints the n times table, starting with 0 |
+| `101-natural.c` | Prints the sum of all multiples of 3 or 5 below 1024 |
