@@ -9,3 +9,4 @@
 | `3-islower.c` | Function that checks for a lowercase character |
 | `4-isalpha.c` | Function that checks for an alphabetic character |
 | `6-abs.c` | Function that computes the absolute value of an integer |
+| `7-print_last_digit.c` | Function that prints the last digit of a number |
