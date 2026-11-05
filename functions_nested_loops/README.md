@@ -18,3 +18,4 @@
 | `101-natural.c` | Prints the sum of all multiples of 3 or 5 below 1024 |
 | `102-fibonacci.c` | Prints the first 50 Fibonacci numbers, starting with 1 and 2 |
 | `103-fibonacci.c` | Prints the sum of the even Fibonacci terms not exceeding 4,000,000 |
+| `104-fibonacci.c` | Prints the first 98 Fibonacci numbers without long long |
