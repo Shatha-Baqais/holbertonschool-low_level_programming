@@ -4,3 +4,4 @@
 |---|---|
 | `sum_to_n.c` | Fixed function that returns the sum of integers from 1 to n |
 | `multiplication_table.c` | Fixed nested loops that print a multiplication table |
+| `row_sums.c` | Fixed accumulation so the total of all row sums is correct |
