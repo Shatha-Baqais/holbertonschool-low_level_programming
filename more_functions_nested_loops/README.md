@@ -12,3 +12,4 @@
 | `6-print_line.c` | Function that draws a straight line in the terminal |
 | `7-print_diagonal.c` | Function that draws a diagonal line on the terminal |
 | `8-print_square.c` | Function that prints a square of # characters |
+| `9-fizz_buzz.c` | Prints 1 to 100 replacing multiples of 3 and 5 with Fizz, Buzz, FizzBuzz |
