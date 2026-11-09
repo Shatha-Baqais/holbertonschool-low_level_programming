@@ -10,3 +10,4 @@
 | `4-print_rev.c` | Function that prints a string in reverse |
 | `5-rev_string.c` | Function that reverses a string in place |
 | `6-puts2.c` | Function that prints every other character of a string |
+| `7-puts_half.c` | Function that prints the second half of a string |
