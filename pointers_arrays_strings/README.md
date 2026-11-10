@@ -12,3 +12,4 @@
 | `6-puts2.c` | Function that prints every other character of a string |
 | `7-puts_half.c` | Function that prints the second half of a string |
 | `9-strcpy.c` | Function that copies a string, including the null byte |
+| `100-atoi.c` | Function that converts a string to an integer |
