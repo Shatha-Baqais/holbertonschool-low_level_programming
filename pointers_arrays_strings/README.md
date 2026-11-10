@@ -23,3 +23,4 @@
 | `7-leet.c` | Function that encodes a string into 1337 |
 | `0-memset.c` | Function that fills memory with a constant byte |
 | `1-memcpy.c` | Function that copies n bytes of memory from src to dest |
+| `2-strchr.c` | Function that locates a character in a string |
