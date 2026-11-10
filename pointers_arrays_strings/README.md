@@ -14,3 +14,4 @@
 | `9-strcpy.c` | Function that copies a string, including the null byte |
 | `100-atoi.c` | Function that converts a string to an integer |
 | `0-strcat.c` | Function that concatenates two strings |
+| `1-strncat.c` | Function that concatenates at most n bytes of src to dest |
