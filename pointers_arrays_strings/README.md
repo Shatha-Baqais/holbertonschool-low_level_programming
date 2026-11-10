@@ -15,3 +15,4 @@
 | `100-atoi.c` | Function that converts a string to an integer |
 | `0-strcat.c` | Function that concatenates two strings |
 | `1-strncat.c` | Function that concatenates at most n bytes of src to dest |
+| `2-strncpy.c` | Function that copies at most n bytes of a string, like strncpy |
