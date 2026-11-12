@@ -25,3 +25,39 @@ int main(void)
 
 	return (0);
 }
+
+#include <stdio.h>
+
+int main(void)
+{
+    int choice;
+
+    do
+    {
+        printf("Menu:\n");
+        printf("1. Addition\n");
+        printf("2. Subtraction\n");
+        printf("3. Multiplication\n");
+        printf("4. Division\n");
+        printf("0. Quit\n");
+        printf("Choice: ");
+
+        scanf("%d", &choice);
+
+        if (choice == 0)
+        {
+            printf("Bye!\n");
+        }
+        else if (choice < 1 || choice > 4)
+        {
+            printf("Invalid choice\n");
+        }
+        else
+        {
+            /* Existing calculator operations go here */
+        }
+
+    } while (choice != 0);
+
+    return (0);
+}
