@@ -26,3 +26,4 @@
 | `2-strchr.c` | Function that locates a character in a string |
 | `4-strpbrk.c` | Function that searches a string for any of a set of bytes |
 | `5-strstr.c` | Function that locates a substring |
+| `7-print_chessboard.c` | Function that prints an 8x8 chessboard |
